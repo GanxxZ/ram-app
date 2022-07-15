@@ -6,7 +6,7 @@ function ml() {
   var user = document.getElementById("userml");
   var id = document.getElementById("idml");
 
-  user.innerHTML = "USERNAME: Ram Wleee";
+  user.innerHTML = "USERNAME: GanxxZ";
   id.innerHTML = "ID: 102230595";
 }
 function ff() {
@@ -20,6 +20,6 @@ function pubg() {
   var user = document.getElementById("userpbg");
   var id = document.getElementById("idpbg");
 
-  user.innerHTML = "USERNAME: RamWleeツ";
+  user.innerHTML = "USERNAME: GanXxzツ";
   id.innerHTML = "ID: 5260096596";
 }
